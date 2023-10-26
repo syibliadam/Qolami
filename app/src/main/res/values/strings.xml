@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Qolami</string>
+    <string-array name="data_nama_pelajaran">
+        <item>Pelajaran 1</item>
+        <item>Pelajaran 2</item>
+        <item>Pelajaran 3</item>
+        <item>Pelajaran 4</item>
+        <item>Pelajaran 4</item>
+        <item>Pelajaran 4</item>
+        <item>Pelajaran 4</item>
+        <item>Pelajaran 4</item>
+        <item>Pelajaran 4</item>
+    </string-array>
+    <string-array name="data_deskripsi_pelajaran">
+        <item>Huruf Arab/Hijaiyah</item>
+        <item>Huruf Berharakat Fathah</item>
+        <item>Huruf Berharakat Dhammah</item>
+        <item>Huruf Berharakat Kasrah</item>
+        <item>Huruf Berharakat Fathatain</item>
+        <item>Huruf Berharakat Kasratain</item>
+        <item>Huruf Berharakat Dhammatain</item>
+        <item>Huruf Berharakat Sukun</item>
+        <item>Huruf Berharakat Bertasydid/Syiddah</item>
+    </string-array>
+</resources>
